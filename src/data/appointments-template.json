@@ -1,0 +1,1243 @@
+{
+  "appointments": [
+    {
+      "id": "84cc0a23-2dba-4dc4-baa7-27bdb53c8cca",
+      "date": "2025-08-18",
+      "doctorId": "d1003",
+      "doctorName": "Dr. Johnson",
+      "slots": [
+        "06:51",
+        "16:06"
+      ],
+      "appointmentType": "Cleaning"
+    },
+    {
+      "id": "e2a5acfa-6b2b-4ab7-9814-3f1a89081eb6",
+      "date": "2025-08-16",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "00:05",
+        "05:25",
+        "07:55"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "37fb384f-cf0b-45e0-b84c-4e2c17d246d1",
+      "date": "2025-08-06",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "05:19",
+        "16:40",
+        "19:12",
+        "23:22"
+      ],
+      "appointmentType": "Emergency"
+    },
+    {
+      "id": "e5355947-9af0-4412-91e7-d21909e0297d",
+      "date": "2025-07-31",
+      "doctorId": "d1003",
+      "doctorName": "Dr. Johnson",
+      "slots": [
+        "03:10",
+        "07:56",
+        "08:26",
+        "12:43"
+      ],
+      "appointmentType": "Cleaning"
+    },
+    {
+      "id": "35d9a47d-c796-4dd0-9de5-d8cb5b479211",
+      "date": "2025-07-25",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "04:38",
+        "05:37"
+      ],
+      "appointmentType": "Emergency"
+    },
+    {
+      "id": "5144bd26-ca00-4811-b4b7-b87dfc474e6b",
+      "date": "2025-07-22",
+      "doctorId": "d1003",
+      "doctorName": "Dr. Johnson",
+      "slots": [
+        "03:09",
+        "16:23"
+      ],
+      "appointmentType": "Cleaning"
+    },
+    {
+      "id": "0a3cd4f2-079b-4827-8bc7-9fc354146c53",
+      "date": "2025-08-06",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "00:15",
+        "00:40",
+        "03:14"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "85ad53ab-7620-48b1-9e78-c20bb9f61468",
+      "date": "2025-07-21",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "08:05",
+        "14:21"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "20544c9d-825d-4669-9879-46903d6b14ea",
+      "date": "2025-08-07",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "00:54",
+        "01:19",
+        "08:44",
+        "10:31",
+        "12:06"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "caf54b4a-5588-4f3a-b132-9d1a7456108c",
+      "date": "2025-08-18",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "01:20",
+        "06:23",
+        "09:34",
+        "13:13",
+        "17:42"
+      ],
+      "appointmentType": "Emergency"
+    },
+    {
+      "id": "469bbeb4-819a-4689-8ce3-1f3deab5ffc0",
+      "date": "2025-08-01",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "21:06",
+        "22:04"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "74f06d2d-a887-42f9-b4a6-a31d28b05d18",
+      "date": "2025-08-16",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "01:13",
+        "03:16",
+        "11:20",
+        "23:45"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "5b196b74-c46f-4720-8655-4e298dd06f40",
+      "date": "2025-08-19",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "03:45",
+        "09:43"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "a09a9bb9-e075-45db-8e0d-fc21bff83e16",
+      "date": "2025-08-18",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "00:22",
+        "23:54"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "e29a07bf-6647-46e5-8231-5626488eae94",
+      "date": "2025-08-07",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "00:19",
+        "01:54",
+        "02:27",
+        "15:47"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "66c5f9ba-e711-43e5-8741-0a7078d14768",
+      "date": "2025-08-02",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "01:49",
+        "03:40"
+      ],
+      "appointmentType": "Emergency"
+    },
+    {
+      "id": "4f0b2d9a-7625-45e1-a675-15d634114d63",
+      "date": "2025-08-13",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "01:28",
+        "12:43",
+        "18:55"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "98538cd6-4cca-4a14-ad3f-fc0362e87b6a",
+      "date": "2025-07-30",
+      "doctorId": "d1003",
+      "doctorName": "Dr. Johnson",
+      "slots": [
+        "07:22",
+        "16:55"
+      ],
+      "appointmentType": "Cleaning"
+    },
+    {
+      "id": "ee7e0973-c884-4294-a697-de48cd773621",
+      "date": "2025-07-23",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "11:58",
+        "22:25"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "9226ebed-216f-493a-825e-78bcb6f37e7d",
+      "date": "2025-07-24",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "10:43",
+        "18:23",
+        "18:42",
+        "23:38"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "f0c0bcea-07ff-4f29-b02d-7faba8f491a1",
+      "date": "2025-08-17",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "11:10",
+        "18:37",
+        "21:59"
+      ],
+      "appointmentType": "Emergency"
+    },
+    {
+      "id": "f44322ed-8cab-4394-bc44-49f7d34eba7b",
+      "date": "2025-08-19",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "10:36",
+        "11:06",
+        "11:36",
+        "22:09"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "5530734c-6d5b-41f8-abd5-37526356e866",
+      "date": "2025-07-20",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "11:20",
+        "19:17"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "9b8f722c-0d0d-4b92-9eaa-f60a121b5703",
+      "date": "2025-08-19",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "07:39",
+        "10:05",
+        "14:24",
+        "17:49"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "12b41108-795f-4aaa-a27e-b41572658f7b",
+      "date": "2025-08-08",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "02:52",
+        "03:07",
+        "16:24",
+        "20:19"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "73d47baf-4d12-405b-8469-1be42e5f7c92",
+      "date": "2025-08-10",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "02:33",
+        "08:58",
+        "14:07",
+        "14:45",
+        "16:21"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "fd066d8e-5f7b-445f-a0d9-d5ef29eec86c",
+      "date": "2025-07-30",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "00:21",
+        "13:09"
+      ],
+      "appointmentType": "Emergency"
+    },
+    {
+      "id": "53233443-ba54-4127-a696-cd84ab307119",
+      "date": "2025-07-31",
+      "doctorId": "d1003",
+      "doctorName": "Dr. Johnson",
+      "slots": [
+        "02:15",
+        "13:15",
+        "14:03",
+        "19:34",
+        "22:23"
+      ],
+      "appointmentType": "Cleaning"
+    },
+    {
+      "id": "62ed827f-0e3e-4cf6-8ace-8ac6d88e0894",
+      "date": "2025-08-02",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "03:12",
+        "18:39"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "f01267be-0a28-4ec4-9277-ee43d89a75b8",
+      "date": "2025-07-24",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "12:15",
+        "14:16",
+        "17:47",
+        "20:28",
+        "23:09"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "adfdd5dd-63da-48d4-a54b-5dbf261ab287",
+      "date": "2025-07-27",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "12:42",
+        "18:44",
+        "19:45"
+      ],
+      "appointmentType": "Emergency"
+    },
+    {
+      "id": "9d8b0e91-c2fd-4846-95ae-5ddc994f8aab",
+      "date": "2025-07-28",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "06:49",
+        "09:07",
+        "10:51"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "04ac6303-1806-47ea-ac8a-54ce540b2c9f",
+      "date": "2025-08-03",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "01:35",
+        "06:36",
+        "15:49"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "531ac09e-9a3a-42c6-bcd3-e9cd6dc649ed",
+      "date": "2025-08-15",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "01:19",
+        "11:22",
+        "17:57",
+        "23:32",
+        "23:40"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "c4e38f83-adb4-4055-8035-71e1e271c049",
+      "date": "2025-08-13",
+      "doctorId": "d1003",
+      "doctorName": "Dr. Johnson",
+      "slots": [
+        "14:27",
+        "17:54",
+        "22:07",
+        "22:20"
+      ],
+      "appointmentType": "Cleaning"
+    },
+    {
+      "id": "366ff690-82a9-49f3-8181-c101681724e1",
+      "date": "2025-08-03",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "10:00",
+        "10:21",
+        "19:42"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "b78b9011-f433-4b7e-b4c5-61730c0a2544",
+      "date": "2025-07-22",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "04:19",
+        "06:07",
+        "11:30"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "5291aaa6-37f1-4fb3-86ad-5a8126292df3",
+      "date": "2025-07-30",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "08:12",
+        "11:36",
+        "13:02",
+        "23:08"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "093ccffb-caa2-4a77-b928-b2e37d1c87a2",
+      "date": "2025-07-21",
+      "doctorId": "d1003",
+      "doctorName": "Dr. Johnson",
+      "slots": [
+        "09:16",
+        "14:56",
+        "15:16",
+        "16:16",
+        "21:17"
+      ],
+      "appointmentType": "Cleaning"
+    },
+    {
+      "id": "a7ee01dc-7346-4762-a106-0ded3ff42285",
+      "date": "2025-07-21",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "16:07",
+        "20:58"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "2ba390f0-251f-4a50-8a0f-73d3e0cffbb4",
+      "date": "2025-08-06",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "05:14",
+        "14:42"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "86e641cf-3efc-46cc-b343-1fd0fe9f7532",
+      "date": "2025-07-20",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "05:34",
+        "21:32",
+        "22:40",
+        "23:41"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "adc83519-316d-4cba-a8d0-93519750b120",
+      "date": "2025-08-01",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "08:00",
+        "16:16",
+        "20:12"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "21b2dd63-5668-4096-a20a-b87d82425926",
+      "date": "2025-08-12",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "07:18",
+        "10:13",
+        "16:47"
+      ],
+      "appointmentType": "Emergency"
+    },
+    {
+      "id": "d9b86be3-984f-48c6-9644-b30dec1fca83",
+      "date": "2025-08-10",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "05:12",
+        "09:09"
+      ],
+      "appointmentType": "Emergency"
+    },
+    {
+      "id": "cd17d008-56d5-4439-b07a-38f276835744",
+      "date": "2025-08-02",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "04:07",
+        "16:52",
+        "23:40"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "1c5e716c-d15d-48e4-ae39-6a5b2200e27f",
+      "date": "2025-07-20",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "07:45",
+        "15:59"
+      ],
+      "appointmentType": "Emergency"
+    },
+    {
+      "id": "2818dd78-922d-463b-a54d-e06b3adc1a07",
+      "date": "2025-08-16",
+      "doctorId": "d1003",
+      "doctorName": "Dr. Johnson",
+      "slots": [
+        "20:08",
+        "22:22",
+        "23:46"
+      ],
+      "appointmentType": "Cleaning"
+    },
+    {
+      "id": "e4a28d8f-0b97-4039-b06b-2e501370305f",
+      "date": "2025-08-16",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "00:11",
+        "05:14",
+        "07:24",
+        "16:52",
+        "23:40"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "791579e6-dac1-4194-a579-a9ea5f2db069",
+      "date": "2025-08-06",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "08:39",
+        "15:33"
+      ],
+      "appointmentType": "Emergency"
+    },
+    {
+      "id": "d5aec75a-c668-42a8-9220-c3aca44e409d",
+      "date": "2025-08-02",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "03:23",
+        "11:47",
+        "12:57",
+        "16:37",
+        "19:53"
+      ],
+      "appointmentType": "Emergency"
+    },
+    {
+      "id": "86fdc155-d406-4f44-8eae-0bd2613a6217",
+      "date": "2025-08-12",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "04:12",
+        "04:34",
+        "16:11",
+        "22:58"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "14414766-333f-4ace-b25d-360ee9cb33da",
+      "date": "2025-07-21",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "07:15",
+        "12:41"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "050f2f1a-ab95-455d-b6f0-ab0b272defb6",
+      "date": "2025-08-09",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "12:24",
+        "18:28",
+        "19:23",
+        "23:37"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "486162ef-e2a0-4ac9-86f4-a73e7dc71040",
+      "date": "2025-08-13",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "14:55",
+        "20:45",
+        "22:14"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "a5d3896b-6c33-4571-a01d-a15206d13d14",
+      "date": "2025-07-22",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "07:05",
+        "17:12",
+        "17:35",
+        "22:02"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "7791395b-c151-4e4a-8c35-27dac38c537f",
+      "date": "2025-07-26",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "13:07",
+        "17:20",
+        "17:55"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "d4319830-6166-4797-b373-a0f4c8c6afc7",
+      "date": "2025-08-04",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "02:38",
+        "06:12"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "35cfed31-f8d1-4969-b6b9-ca72eade038e",
+      "date": "2025-08-14",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "06:55",
+        "07:15"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "f94bd0f1-bc8b-42b0-9148-6c3eaf410242",
+      "date": "2025-08-10",
+      "doctorId": "d1003",
+      "doctorName": "Dr. Johnson",
+      "slots": [
+        "02:57",
+        "08:58",
+        "11:16",
+        "14:53",
+        "16:52"
+      ],
+      "appointmentType": "Cleaning"
+    },
+    {
+      "id": "a4181175-54b5-48cc-9f21-8a13132b7ab5",
+      "date": "2025-07-29",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "03:37",
+        "04:50",
+        "15:20",
+        "23:19"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "e7f7b445-2b47-4332-a0e8-a96e6723e3d4",
+      "date": "2025-07-31",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "02:21",
+        "04:25",
+        "07:34",
+        "14:55",
+        "18:13"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "de1e05a1-77ac-4461-b1fd-bd8180737d78",
+      "date": "2025-07-23",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "04:19",
+        "16:44",
+        "17:21",
+        "22:44"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "a1fa1c68-fc72-48bc-9324-87fea858a129",
+      "date": "2025-08-12",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "00:52",
+        "09:36"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "6e89986d-9761-4e42-bdd9-14737372f00f",
+      "date": "2025-07-28",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "05:23",
+        "06:20",
+        "08:14",
+        "18:22"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "0ba012cd-f226-4170-8587-6e049608dd08",
+      "date": "2025-08-12",
+      "doctorId": "d1003",
+      "doctorName": "Dr. Johnson",
+      "slots": [
+        "18:39",
+        "20:15"
+      ],
+      "appointmentType": "Cleaning"
+    },
+    {
+      "id": "eaf2be52-430b-40b6-900d-de47594c6489",
+      "date": "2025-08-06",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "02:19",
+        "22:18"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "b9e41eb5-ccfc-4df7-ab8d-934ef68ed24b",
+      "date": "2025-08-14",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "02:31",
+        "03:07",
+        "06:57",
+        "10:03"
+      ],
+      "appointmentType": "Emergency"
+    },
+    {
+      "id": "b34bfe66-6229-47fc-af56-6a4145386a75",
+      "date": "2025-07-21",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "05:14",
+        "11:25",
+        "13:56",
+        "17:39",
+        "22:46"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "a29a43ae-9cd0-43fa-b9f5-9db5fb94a000",
+      "date": "2025-08-10",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "02:30",
+        "08:39",
+        "23:32"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "1723b9c3-d6bb-48d1-acf6-8ecfbc2a1cb7",
+      "date": "2025-08-07",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "04:22",
+        "09:06",
+        "09:21",
+        "12:02"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "4257675d-861b-48bc-ac15-d6ee9af8cd14",
+      "date": "2025-07-21",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "10:57",
+        "17:23"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "74cc0a49-ea71-4029-87a7-570ec279728b",
+      "date": "2025-08-08",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "07:39",
+        "15:52",
+        "16:30",
+        "23:47"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "00fc2e9f-c687-4c98-af96-a775c3c0bc69",
+      "date": "2025-08-14",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "00:14",
+        "07:18",
+        "08:07",
+        "18:02",
+        "20:37"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "238a1b56-f493-41db-b5e3-0376ef32204d",
+      "date": "2025-08-16",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "05:22",
+        "08:36",
+        "18:50"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "3116966c-fd6f-4080-a83d-921b78cf8015",
+      "date": "2025-07-20",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "01:47",
+        "14:30",
+        "14:39",
+        "17:27"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "01bb5375-dfdb-4670-a419-ca6d8b625a36",
+      "date": "2025-08-06",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "06:34",
+        "09:41",
+        "14:16",
+        "22:11"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "b2e885d9-cda3-44e8-ada9-63979e8225b5",
+      "date": "2025-07-31",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "02:39",
+        "02:49",
+        "11:41"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "4f321440-322e-4b19-be71-e3317d518fa7",
+      "date": "2025-08-19",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "10:06",
+        "16:10",
+        "16:10",
+        "17:29"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "11783d94-2598-4386-a10f-773cbf746143",
+      "date": "2025-08-08",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "01:33",
+        "09:36",
+        "10:12",
+        "14:51",
+        "21:47"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "9f76a847-12c7-48f6-ac2c-1c39380033d7",
+      "date": "2025-07-23",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "15:18",
+        "17:54"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "3456f169-4e8f-4b5b-aa42-8d5249f6cf0c",
+      "date": "2025-08-18",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "00:32",
+        "00:50",
+        "18:57",
+        "19:13"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "9ddadbd0-28f0-4398-8b86-6aa7d654f852",
+      "date": "2025-08-17",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "08:57",
+        "21:43"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "e6cccf11-7c44-43ed-aea8-6cc8b82d0a97",
+      "date": "2025-08-12",
+      "doctorId": "d1003",
+      "doctorName": "Dr. Johnson",
+      "slots": [
+        "00:50",
+        "07:20",
+        "11:23",
+        "12:53",
+        "22:34"
+      ],
+      "appointmentType": "Cleaning"
+    },
+    {
+      "id": "1818c45f-24a9-476e-916e-1e18a763b0f4",
+      "date": "2025-07-26",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "00:39",
+        "02:16",
+        "04:28",
+        "22:12"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "0dfaab43-9e2a-41b4-95a6-e049035df4c4",
+      "date": "2025-08-10",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "05:41",
+        "08:16",
+        "08:40",
+        "10:17",
+        "17:43"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "8c9700b7-38ba-420c-9393-1318b2f3068f",
+      "date": "2025-07-22",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "11:44",
+        "15:16",
+        "19:47",
+        "21:56"
+      ],
+      "appointmentType": "Emergency"
+    },
+    {
+      "id": "d4d09ad7-5b20-408a-960f-c90eac521a26",
+      "date": "2025-07-26",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "03:53",
+        "05:59",
+        "19:12",
+        "19:57",
+        "23:30"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "fe17e3cc-b55e-44d5-a3ae-5ebed6eb8832",
+      "date": "2025-08-05",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "00:45",
+        "07:37",
+        "12:28",
+        "23:14"
+      ],
+      "appointmentType": "Emergency"
+    },
+    {
+      "id": "703ca296-2f53-427d-a207-7964368d94d7",
+      "date": "2025-08-17",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "00:03",
+        "00:30",
+        "03:27",
+        "07:33",
+        "14:04"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "4797f110-dd3b-4757-842e-8faa738412e3",
+      "date": "2025-08-10",
+      "doctorId": "d1003",
+      "doctorName": "Dr. Johnson",
+      "slots": [
+        "10:58",
+        "17:39"
+      ],
+      "appointmentType": "Cleaning"
+    },
+    {
+      "id": "17d555ba-38db-4fb3-9861-e15b09685cdb",
+      "date": "2025-08-16",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "02:47",
+        "04:13",
+        "20:26"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "75fa0e45-283b-4417-97b6-d330050297e7",
+      "date": "2025-08-08",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "00:42",
+        "18:47"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "1911bb76-a401-4edf-b404-08e278773c2b",
+      "date": "2025-08-09",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "04:44",
+        "05:34"
+      ],
+      "appointmentType": "Emergency"
+    },
+    {
+      "id": "f819382a-0c6a-4d16-8a3b-9d3443a3c049",
+      "date": "2025-08-02",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "00:08",
+        "01:26",
+        "01:41",
+        "20:44"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "57dca5d9-b3e3-4dab-b756-61682e6f3513",
+      "date": "2025-08-17",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "10:56",
+        "11:17"
+      ],
+      "appointmentType": "General"
+    },
+    {
+      "id": "5cfc2751-5f8d-4da3-ba0b-f64d7bffecd4",
+      "date": "2025-08-18",
+      "doctorId": "d1003",
+      "doctorName": "Dr. Johnson",
+      "slots": [
+        "03:18",
+        "04:46",
+        "10:02"
+      ],
+      "appointmentType": "Cleaning"
+    },
+    {
+      "id": "b8499e99-ee7a-4991-b4b8-3254005b5dcd",
+      "date": "2025-08-06",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "03:15",
+        "03:34",
+        "04:02",
+        "13:50",
+        "14:49"
+      ],
+      "appointmentType": "NewPatient"
+    },
+    {
+      "id": "59911dc2-05ab-47f3-a2de-8f4d7c5023b5",
+      "date": "2025-07-28",
+      "doctorId": "d1002",
+      "doctorName": "Dr. Lee",
+      "slots": [
+        "07:14",
+        "18:03",
+        "19:00",
+        "19:44",
+        "22:45"
+      ],
+      "appointmentType": "Consultation"
+    },
+    {
+      "id": "1fc4ed91-98b4-4394-9a18-bccd3dcbdd7c",
+      "date": "2025-08-03",
+      "doctorId": "d1001",
+      "doctorName": "Dr. Smith",
+      "slots": [
+        "00:40",
+        "02:10",
+        "17:18",
+        "18:13",
+        "19:46"
+      ],
+      "appointmentType": "Emergency"
+    }
+  ]
+}
