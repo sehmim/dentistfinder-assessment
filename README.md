@@ -1,4 +1,4 @@
-# Appointment Sync API - Implementation
+# Dentistfinder Assessment
 
 ## 🚀 Getting Started
 
@@ -76,6 +76,22 @@ npm run test:watch
 
 ## 🏗️ Architecture Overview
 
+
+### `/mock-external-api/slots` Endpoint Flow
+```
+Client Request with Basic Auth
+    ↓
+Authentication Validation
+    ↓
+Raw JSON Data Loading
+    ↓
+Mock Data Service (Format Generation)
+    ↓
+Random Format Selection (A, B, or C)
+    ↓
+Messy Response to Client
+```
+
 ### `/api/available-slots` Endpoint Flow
 ```
 Client Request
@@ -95,19 +111,44 @@ Unified Format + Filtering + Pagination
 Client Response
 ```
 
-### `/mock-external-api/slots` Endpoint Flow
-```
-Client Request with Basic Auth
-    ↓
-Authentication Validation
-    ↓
-Raw JSON Data Loading
-    ↓
-Mock Data Service (Format Generation)
-    ↓
-Random Format Selection (A, B, or C)
-    ↓
-Messy Response to Client
-```
+## 🎯 Approach & Assumptions
 
-## 🔧 Technical Implementation
+**Core Approach:** Built a realistic API integration pipeline that simulates consuming inconsistent third-party data and transforming it into a clean, unified format. The architecture demonstrates real-world challenges where external APIs return data in unpredictable structures.
+
+### Key Assumptions:
+
+- Third-party PMS systems return appointment data in 3+ different formats with inconsistent field names and date formats
+- Basic Authentication is acceptable for mock external API (production would use OAuth 2.0)
+- Internal API should be public-facing with no authentication required
+- All appointment slots are 30-minute durations for Format B transformation
+- Error resilience is critical - individual record failures shouldn't break entire requests
+- Date normalization to YYYY-MM-DD format provides consistency for frontend consumption
+
+---
+
+## 🏗 API Structure
+
+### **Mock External API** (`/mock-external-api/slots`)
+
+**Purpose:** Simulates inconsistent third-party PMS system  
+**Authentication:** Basic Auth (`admin@example.com` / `admin123`)  
+**Response:** Returns raw appointment data in 3 randomly mixed formats:
+
+- **Format A:** `{date, times[], doctor{name, id}, type}`
+- **Format B:** `{available_on, slots[{start, end}], provider, category}`
+- **Format C:** `{appointment_day, free_slots[], physician_name, service_type}`
+
+---
+
+### **Internal Unified API** (`/api/available-slots`)
+
+**Purpose:** Consumer-facing API with clean, normalized data  
+**Authentication:** Public (no auth required)  
+**Features:** Calls mock API → normalizes data → applies filtering/pagination  
+**Response:** Unified format `{date, start_time, provider}` with pagination metadata
+
+---
+
+### **Data Flow:**
+External messy formats → HTTP integration layer → normalization service → filtered/paginated unified response
+
