@@ -38,11 +38,41 @@ src/
 ├── services/           # Business logic & normalization
 ├── config/             # Swagger configuration
 ├── data/               # Mock data files
+├── tests/              # Test suites
+│   ├── unit/           # Unit tests for services
+│   ├── integration/    # API endpoint tests
+│   └── setup.ts        # Test configuration
 ├── types.ts            # Centralized type definitions
 └── app.ts              # Express setup
 docs/
 └── api.yml             # OpenAPI specification
 ```
+
+## 🧪 Testing
+
+### Run Tests
+```bash
+# Run all tests
+npm test
+
+# Run with coverage
+npm run test:coverage
+
+# Run unit tests only
+npm run test:unit
+
+# Run integration tests only
+npm run test:integration
+
+# Watch mode for development
+npm run test:watch
+```
+
+### Test Coverage
+- **Unit Tests**: Services and business logic
+- **Integration Tests**: API endpoints and HTTP flows
+- **Error Scenarios**: Authentication, validation, edge cases
+- **Data Validation**: Format detection and normalization
 
 ## 🏗️ Architecture Overview
 
@@ -80,4 +110,4 @@ Random Format Selection (A, B, or C)
 Messy Response to Client
 ```
 
-This implementation simulates real-world API integration using real HTTP calls, robust error handling, and centralized TypeScript types for maintainability. A normalization engine transforms messy input formats into a consistent structure while continuing on individual record failures. Basic Auth is used for simplicity, with production-ready considerations like CORS, structured logging, and environment-based config. Future upgrades include database support, caching, rate limiting, and automated tests.
+## 🔧 Technical Implementation
